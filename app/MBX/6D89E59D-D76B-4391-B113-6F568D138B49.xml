@@ -1,0 +1,335 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="6D89E59D-D76B-4391-B113-6F568D138B49" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="45">
+    <control controlID="46AF7D25-970B-4D0A-899F-ABB6101F24F6" controlTypeID="Panel" x="-1" y="0" w="377" h="49" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="68B53D72-1473-4C9C-A1FC-C9C75D48807B" controlTypeID="Border" x="0" y="0" w="377" h="49" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="B2FD8014-D300-48B6-9D3D-2425D5E3A870" controlTypeID="Panel" x="-1" y="0" w="377" h="49" zOrder="1">
+      <color>4284900966</color>
+      <borderColor>4282598211</borderColor>
+      <groupChildrenDescriptors>
+        <control controlID="0716BDFD-65A9-4A81-AC57-ACE9D5320BB1" controlTypeID="Border" x="0" y="0" w="377" h="49" zOrder="0">
+          <borderColor>4282598211</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="28E89CD0-35BA-496C-8DFC-FA1ADA55012A" controlTypeID="Search" x="13" y="12" w="350" h="25" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="735393D7-56AA-47B0-830F-69A9372D1482" controlTypeID="Button" x="40" y="57" w="120" h="24" zOrder="3">
+      <color>4284900966</color>
+      <links eventType="AtClick" animate="AmSlideUp" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="22822DDF-0860-4F75-96F2-ECE252372329" linkType="ltPageLink" isApplyIncludePage="False" title="Inspiration+-+Activ+pack">
+          <area shape="0" alt="" ID="{65166BA4-E1D5-439C-8C91-EA32F361F893}" coords="(0,0,120,24)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>INSPIRATION</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>12</radius>
+    </control>
+    <control controlID="6BD105D8-EDD2-4134-9D11-36954A985B12" controlTypeID="Button" x="147" y="57" w="91" h="24" zOrder="4">
+      <color>4284900966</color>
+      <links eventType="AtClick" animate="AmSlideUp" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9838BC3B-2CA5-40A0-9731-BAE2CEBC39C8" linkType="ltPageLink" isApplyIncludePage="False" title="Train">
+          <area shape="0" alt="" ID="{7A3F36DD-4A67-4020-B1E5-CF027501EE2A}" coords="(0,0,91,24)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>TRAIN</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>0</radius>
+    </control>
+    <control controlID="0B451545-BD50-4669-AD07-5E1866AE871B" controlTypeID="Panel" x="5" y="119" w="366" h="90" zOrder="5">
+      <color>16777215</color>
+      <groupChildrenDescriptors>
+        <control controlID="E6C1C4C2-351C-4F87-8A13-E625D7481E85" controlTypeID="Label" x="35" y="0" w="161" h="32" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Training+Packs</text>
+          <textColor>4282598211</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1CC57442-3E9A-4840-80D3-7D8A682CB01B" controlTypeID="Icon" x="318" y="30" w="32" h="32" zOrder="1">
+          <color>4282598211</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>61974</iconCode>
+          </icon>
+          <URL>909563FAFE25D2BCBB465D4435A7FA63.svg</URL>
+        </control>
+        <control controlID="E8742D12-444F-43BF-B1B3-B6C41873D992" controlTypeID="TextArea" x="35" y="32" w="240" h="56" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Create+one+time+buy+training+packs</text>
+          <textColor>4284900966</textColor>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1CE6E6A2-8B64-40BF-AAC8-FF2F15492C90" controlTypeID="__group__" x="0" y="39" w="25" h="16" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="081BFE1E-CDA6-4105-8787-112CC51AD6EB" controlTypeID="Icon" x="0" y="-2" w="18" h="18" zOrder="0">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+            <control controlID="B17691A0-5CDA-4A9F-83E0-C1B70ECD6A62" controlTypeID="Icon" x="7" y="-2" w="18" h="18" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="099CEEA1-1517-4EC7-86DE-224F9ABD0A94" controlTypeID="Border" x="0" y="0" w="366" h="90" zOrder="4">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="D0A9D336-406A-4C1C-B571-61F4E02DDF1B" controlTypeID="Button" x="216" y="57" w="120" h="24" zOrder="6">
+      <links eventType="AtClick" animate="AmSlideUp" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6D89E59D-D76B-4391-B113-6F568D138B49" linkType="ltPageLink" isApplyIncludePage="False" title="Coach">
+          <area shape="0" alt="" ID="{641E835B-E4A3-4A7A-9E8B-D611A9B69EE1}" coords="(0,0,120,24)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>COACH</text>
+      <textColor>4282598211</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="4DAE2809-D54F-41FA-B364-FFE04F4E2B0D" controlTypeID="__group__" x="-1" y="628" w="377" h="40" zOrder="7">
+      <groupChildrenDescriptors>
+        <control controlID="7D2A14EC-B762-4934-9085-9875353B64AF" controlTypeID="Panel" x="0" y="0" w="377" h="40" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="E28245B0-6D5A-45A0-BA86-8A9FB270B4AA" controlTypeID="Border" x="0" y="0" w="377" h="40" zOrder="0">
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="4F0A5DE2-BBB1-4A2F-906B-61CF31454510" controlTypeID="Image" x="55" y="4" w="28" h="28" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="6DD58CB8-9FE8-4161-A3C8-8D394AE8C029" linkType="ltPageLink" isApplyIncludePage="False" title="Chat">
+              <area shape="0" alt="" ID="{48750A6A-F0E4-4E51-ADAF-885B19CCA292}" coords="(0,0,28,28)"/>
+            </link>
+          </links>
+          <URL>7C1D251A8F8547C4A23A23AE5B8D95A3.png</URL>
+        </control>
+        <control controlID="3FEA5246-FE17-4BB6-9DFA-C6462C865E2C" controlTypeID="Image" x="173" y="4" w="32" h="32" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="AC095E82-30CD-46CF-9355-02677E76E1F8" linkType="ltPageLink" isApplyIncludePage="False" title="Inspiration">
+              <area shape="0" alt="" ID="{70607F5F-BF9C-4EFA-B555-88F7384A1BD1}" coords="(0,0,32,32)"/>
+            </link>
+          </links>
+          <URL>46A908B34663FA8E870C98CB313FC7B6.png</URL>
+        </control>
+        <control controlID="DBEF8820-ABCA-4826-9862-26A5E7CE8F2A" controlTypeID="Image" x="295" y="4" w="28" h="28" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="D103AAA3-7305-4C9E-91D7-7D83B8D74019" linkType="ltPageLink" isApplyIncludePage="False" title="Profile">
+              <area shape="0" alt="" ID="{741F0206-500C-44EB-9549-F03AC1793F88}" coords="(0,0,28,28)"/>
+            </link>
+          </links>
+          <URL>61518E9D78B67E5F8EE7B0E0B45E391A.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="DF975846-F85A-49B4-9437-F9AA50682B5D" controlTypeID="Panel" x="5" y="224" w="366" h="90" zOrder="8">
+      <color>16777215</color>
+      <groupChildrenDescriptors>
+        <control controlID="EC749008-8DD5-4D49-AC30-D67ACFE644A4" controlTypeID="Label" x="35" y="0" w="117" h="32" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Hire+Packs</text>
+          <textColor>4282598211</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7ACB8B9B-B8FC-4BCD-AB62-A20082124EDC" controlTypeID="Icon" x="318" y="30" w="32" h="32" zOrder="1">
+          <color>4282598211</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>61974</iconCode>
+          </icon>
+          <URL>909563FAFE25D2BCBB465D4435A7FA63.svg</URL>
+        </control>
+        <control controlID="B405B9A6-7961-4858-AEBA-BCEA4C7CEAF3" controlTypeID="TextArea" x="35" y="32" w="240" h="56" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Create+hire+packs+so+people+can+get+more+of+you</text>
+          <textColor>4284900966</textColor>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="5E617227-1355-45B3-A920-0D63A2B89D52" controlTypeID="__group__" x="0" y="39" w="25" h="16" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="ABCBA4F6-9003-4768-B366-FD7D77D05D86" controlTypeID="Icon" x="0" y="-2" w="18" h="18" zOrder="0">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+            <control controlID="5A57C616-A93F-4CAF-B2C1-B84C754A38BD" controlTypeID="Icon" x="7" y="-2" w="18" h="18" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2895829A-5C7F-4A37-9DFF-A4BB134DE3BE" controlTypeID="Border" x="0" y="0" w="366" h="90" zOrder="4">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="D6C16A4D-D3E1-48B4-B18D-901D36E6AA20" controlTypeID="Panel" x="5" y="329" w="366" h="90" zOrder="9">
+      <color>16777215</color>
+      <groupChildrenDescriptors>
+        <control controlID="5C26A1FB-A2E9-45A4-AEAE-9C3863E95470" controlTypeID="Label" x="35" y="0" w="93" h="32" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Trainees</text>
+          <textColor>4282598211</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="2B07775D-BF92-4017-B66A-E3A340F18F7E" controlTypeID="TextArea" x="35" y="32" w="330" h="56" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>You+have+to+create+hire+packs+in+order+to+have+trainees</text>
+          <textColor>4284900966</textColor>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="59296493-FC14-4C6B-9BA9-2115A074EA32" controlTypeID="__group__" x="0" y="39" w="25" h="16" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="A86B5443-F6C3-45F2-8737-A428AD20A66F" controlTypeID="Icon" x="0" y="-2" w="18" h="18" zOrder="0">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+            <control controlID="1DCB91A8-9F03-4DC1-B5AF-253ED9C80629" controlTypeID="Icon" x="7" y="-2" w="18" h="18" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8D589BE3-9454-46D1-9F1A-37B32AA44443" controlTypeID="Border" x="0" y="0" w="366" h="90" zOrder="3">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="DD67494A-9FA5-4FE1-A99C-E9841FB33479" controlTypeID="Panel" x="5" y="434" w="366" h="90" zOrder="10">
+      <color>16777215</color>
+      <groupChildrenDescriptors>
+        <control controlID="4277ACFF-7E4F-4C7C-BFC2-152E130D7A5C" controlTypeID="Label" x="35" y="0" w="122" h="32" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Challenges</text>
+          <textColor>4282598211</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3693FE98-6590-4886-A351-678A134EF9AB" controlTypeID="Icon" x="318" y="30" w="32" h="32" zOrder="1">
+          <color>4282598211</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>61974</iconCode>
+          </icon>
+          <URL>909563FAFE25D2BCBB465D4435A7FA63.svg</URL>
+        </control>
+        <control controlID="B9A7844C-B4FC-4A70-A889-7B42A9559C2A" controlTypeID="TextArea" x="35" y="32" w="240" h="56" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Add+challenges+for+your+trainees+or+as+hiring+admission</text>
+          <textColor>4284900966</textColor>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1BE91E70-A610-45E7-AA2A-8FD07A4D92B2" controlTypeID="__group__" x="0" y="39" w="25" h="16" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="E754DC6B-5C27-4796-8CAE-3D006D363147" controlTypeID="Icon" x="0" y="-2" w="18" h="18" zOrder="0">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+            <control controlID="D95E4809-A6F9-444F-B86E-6CB25429283E" controlTypeID="Icon" x="7" y="-2" w="18" h="18" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62359</iconCode>
+              </icon>
+              <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8E47D9A4-2DAA-45B9-BB6E-F6BBC7D92973" controlTypeID="Border" x="0" y="0" w="366" h="90" zOrder="4">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

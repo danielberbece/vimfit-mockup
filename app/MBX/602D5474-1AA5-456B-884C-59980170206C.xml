@@ -1,0 +1,116 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="602D5474-1AA5-456B-884C-59980170206C" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="CE8ECECA-CE29-4DEA-9F2A-6D4A3719C7BB" controlTypeID="Panel" x="0" y="0" w="375" h="40" zOrder="0">
+      <color>4288782753</color>
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="B6948CC3-87C8-45AB-997F-6DCF3836CE1D" controlTypeID="Border" x="0" y="0" w="375" h="40" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="81C01BCD-7053-4C12-A15C-1A9F89D5B08B" controlTypeID="TextArea" x="133" y="8" w="110" h="25" zOrder="1">
+      <borderColor>4294967295</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Full+Body</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <textAlign>HaCenter</textAlign>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BA485257-BC40-4C04-95E1-DB5188449188" controlTypeID="Icon" x="10" y="12" w="16" h="16" zOrder="2">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6DD58CB8-9FE8-4161-A3C8-8D394AE8C029" linkType="ltPageLink" isApplyIncludePage="False" title="Chat">
+          <area shape="0" alt="" ID="{33D155AA-80F7-43B1-BC84-7D2566BBA778}" coords="(0,0,16,16)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="38ED3469-E362-431C-AA9E-FD96D564764F" controlTypeID="Icon" x="349" y="12" w="16" h="16" zOrder="3">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62525</iconCode>
+      </icon>
+      <URL>0F740100B0915CB3454052FFE3B0A3CD.svg</URL>
+    </control>
+    <control controlID="AA71D5AA-8516-4B74-889F-A3E9A11FF922" controlTypeID="Line" x="-1" y="563" w="375" h="1" zOrder="4">
+      <color>4288782753</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(188,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(375,0)</endPoint>
+    </control>
+    <control controlID="04473E6E-6672-4E8D-9C54-58367538BBC6" controlTypeID="Shape" x="0" y="39" w="375" h="524" zOrder="5">
+      <color>4294111986</color>
+      <borderColor>4294967295</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="77AE4782-56F4-4FA9-935B-65D1DC3B4B4A" controlTypeID="__group__" x="132" y="619" w="112" h="32" zOrder="6">
+      <groupChildrenDescriptors>
+        <control controlID="80E1A326-D67A-412F-8B0F-B988910E4611" controlTypeID="Icon" x="40" y="0" w="32" h="32" zOrder="0">
+          <color>4282598211</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoFont</iconFontName>
+            <iconCode>59154</iconCode>
+          </icon>
+          <URL>6B38B7BCCAFAF30C0B97917595025F25.svg</URL>
+        </control>
+        <control controlID="488FE2CD-9324-49B4-B8BB-56ECF682D2A6" controlTypeID="Icon" x="96" y="8" w="16" h="16" zOrder="1">
+          <color>4282598211</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoFont</iconFontName>
+            <iconCode>59241</iconCode>
+          </icon>
+          <URL>2B8DBF33E262B04AC81730AB1DB09D54.svg</URL>
+        </control>
+        <control controlID="CD7032EE-791E-4322-B075-91A83C0EE07D" controlTypeID="Icon" x="0" y="8" w="16" h="16" zOrder="2">
+          <color>4282598211</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoFont</iconFontName>
+            <iconCode>59242</iconCode>
+          </icon>
+          <URL>C6F07E84D5558992F8CC83185A9F89A0.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="457FB4B3-475C-449E-AD8E-593857749E50" controlTypeID="ProgressBar" x="10" y="603" w="355" h="6" zOrder="7">
+      <borderColor>4282598211</borderColor>
+      <indicatorColor>4294967295</indicatorColor>
+    </control>
+    <control controlID="E0D774A9-3600-4B7F-917C-9D85FBECFF74" controlTypeID="Icon" x="24" y="135" w="323" h="323" zOrder="8">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62436</iconCode>
+      </icon>
+      <URL>8148FCB12E1C8A2FF3D927B7EAC250C8.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

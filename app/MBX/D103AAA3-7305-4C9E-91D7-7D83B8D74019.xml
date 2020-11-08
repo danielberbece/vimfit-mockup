@@ -1,0 +1,67 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="94BE82B3-9C3C-4DC0-B2E7-39930F65B0D0" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="67678A23-C8B8-4392-A63E-318C91DF647B" controlTypeID="Image" x="-530" y="289" w="32" h="32" zOrder="0">
+      <URL>AA5210B05D2ACC354641566944045E78.png</URL>
+    </control>
+    <control controlID="FEF899CD-33E8-4B1F-A914-DC7148256BBD" controlTypeID="Image" x="-440" y="379" w="32" h="32" zOrder="1">
+      <URL>46A908B34663FA8E870C98CB313FC7B6.png</URL>
+    </control>
+    <control controlID="15B8B041-E1B2-4A69-9A82-8DBBF7CBBA70" controlTypeID="Image" x="-410" y="409" w="32" h="32" zOrder="2">
+      <URL>98A313FF164E9957BDD6AD22C9CEA931.png</URL>
+    </control>
+    <control controlID="9A61A3D0-B4E3-4BE2-9843-13344DEC53BC" controlTypeID="Image" x="-151" y="381" w="28" h="28" zOrder="3">
+      <URL>AA5210B05D2ACC354641566944045E78.png</URL>
+    </control>
+    <control controlID="533722CB-1565-4748-B7FC-ED07936A3843" controlTypeID="Image" x="-279" y="429" w="32" h="32" zOrder="4">
+      <URL>61518E9D78B67E5F8EE7B0E0B45E391A.png</URL>
+    </control>
+    <control controlID="9742E6C3-99D4-498D-BF97-678C1D32000A" controlTypeID="Image" x="-316" y="502" w="32" h="32" zOrder="5">
+      <URL>825381859616EB0297DEE0C2853AA4FF.png</URL>
+    </control>
+    <control controlID="2E8E09C3-D75D-4371-AECF-F9851BD7ADB9" controlTypeID="Image" x="-290" y="529" w="32" h="32" zOrder="6">
+      <URL>7FB3C98E1374063A9DE7E11A974CB633.png</URL>
+    </control>
+    <control controlID="27E0DEB0-165F-4A0D-B479-4DEED1247C88" controlTypeID="__group__" x="-1" y="628" w="377" h="40" zOrder="7">
+      <groupChildrenDescriptors>
+        <control controlID="AF39A162-30BE-4F53-8E93-1E3982480BFA" controlTypeID="Panel" x="0" y="0" w="377" h="40" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="AB8DF7A4-1EAC-4E74-963E-B66F2B6C67C3" controlTypeID="Border" x="0" y="0" w="377" h="40" zOrder="0">
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="379B956D-8F8A-48E0-8FE2-2C4402588064" controlTypeID="Image" x="173" y="4" w="32" h="32" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="AC095E82-30CD-46CF-9355-02677E76E1F8" linkType="ltPageLink" isApplyIncludePage="False" title="Inspiration">
+              <area shape="0" alt="" ID="{A5D70D54-17F5-4778-B883-73491F08F7CD}" coords="(0,0,32,32)"/>
+            </link>
+          </links>
+          <URL>AB62695AC89B395498DA27B6DCFBC497.png</URL>
+        </control>
+        <control controlID="75458904-7B98-460B-B6B7-6786559F1485" controlTypeID="Image" x="295" y="4" w="28" h="28" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="D103AAA3-7305-4C9E-91D7-7D83B8D74019" linkType="ltPageLink" isApplyIncludePage="False" title="Profile">
+              <area shape="0" alt="" ID="{910AAD01-DDF2-465A-806D-E3FB15D8F261}" coords="(0,0,28,28)"/>
+            </link>
+          </links>
+          <URL>FF2EBEC3010EF8A291777292885349F2.png</URL>
+        </control>
+        <control controlID="B8A06954-9BA6-425F-9DA0-D5522B2647E7" controlTypeID="Image" x="55" y="4" w="28" h="28" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="6DD58CB8-9FE8-4161-A3C8-8D394AE8C029" linkType="ltPageLink" isApplyIncludePage="False" title="Chat">
+              <area shape="0" alt="" ID="{48750A6A-F0E4-4E51-ADAF-885B19CCA292}" coords="(0,0,28,28)"/>
+            </link>
+          </links>
+          <URL>7C1D251A8F8547C4A23A23AE5B8D95A3.png</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

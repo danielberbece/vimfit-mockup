@@ -1,0 +1,115 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="61C98320-0442-4563-9B31-9FF54FF49AD4" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="12">
+    <control controlID="239C5843-4B33-4755-B720-F8C3FA1749C8" controlTypeID="Button" x="72" y="443" w="231" h="35" zOrder="0">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AC095E82-30CD-46CF-9355-02677E76E1F8" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{B534B09A-0A98-4A10-A2FE-5B4F4E425309}" coords="(0,0,231,35)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Log+in</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>10</radius>
+    </control>
+    <control controlID="4D638F16-BB2B-44EF-8526-158AE0F4ED83" controlTypeID="TextArea" x="72" y="488" w="174" h="27" zOrder="1">
+      <color>52479</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Don't+have+an+account+yet%3F%0D%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4E7C4BD2-8EB1-4033-A63D-B791622255E9" controlTypeID="TextArea" x="246" y="488" w="57" h="27" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="93430674-E081-47AD-8D38-CF9A3BC22BC4" linkType="ltPageLink" isApplyIncludePage="False" title="Register">
+          <area shape="0" alt="" ID="{AB0CEC79-9F48-4F0C-8F0A-B09147409822}" coords="(0,0,57,27)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Sign+up</text>
+      <textColor>4284900966</textColor>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B34AEE51-C4AE-480F-A0D6-E3410FF247BF" controlTypeID="Icon" x="149" y="525" w="34" h="34" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AC095E82-30CD-46CF-9355-02677E76E1F8" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{953DA284-0107-4F51-B64F-39F9C6FAF38F}" coords="(0,0,34,34)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61570</iconCode>
+      </icon>
+      <URL>4CEBA48D845888E06C868951A5E1A875.svg</URL>
+    </control>
+    <control controlID="C306AED1-5198-45E3-BF2C-1671CFFED11D" controlTypeID="Icon" x="193" y="525" w="34" h="34" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="AC095E82-30CD-46CF-9355-02677E76E1F8" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{10B3FFB6-C9DB-449F-B520-47D763C6A7EE}" coords="(0,0,34,34)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61652</iconCode>
+      </icon>
+      <URL>282331BE75C40FB6D299F787B7BFD38F.svg</URL>
+    </control>
+    <control controlID="20B89EA8-76E3-4CFE-9E2B-C8C2D8B91E38" controlTypeID="__group__" x="72" y="312" w="231" h="45" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="A6FD60E2-5B26-4EF9-BAEE-5E80137D3D6E" controlTypeID="TextInput" x="0" y="10" w="231" h="35" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>12</radius>
+        </control>
+        <control controlID="CAA831BC-F8B1-4F79-96DC-D2BC15D3CCAF" controlTypeID="Label" x="30" y="0" w="70" h="19" zOrder="1">
+          <color>4294967295</color>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>+Username+</text>
+          <textColor>4284900966</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="D4FF3261-2711-4AD7-9727-FC5734A82568" controlTypeID="__group__" x="72" y="367" w="231" h="45" zOrder="6">
+      <groupChildrenDescriptors>
+        <control controlID="40B41C5B-253B-4BF3-960C-6E362B121F5A" controlTypeID="TextInput" x="0" y="10" w="231" h="35" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>12</radius>
+        </control>
+        <control controlID="21FAA3A6-1AF1-472E-AB2A-DC0F109A71A2" controlTypeID="Label" x="36" y="0" w="58" h="19" zOrder="1">
+          <color>4294967295</color>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Password</text>
+          <textColor>4284900966</textColor>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="DAA87193-A34F-4240-996C-126071FCA040" controlTypeID="Gif" x="-26" y="79" w="427" h="302" zOrder="7">
+      <URL>E40EEF804F8A486AC6DCB30777AD5DB4.gif</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
